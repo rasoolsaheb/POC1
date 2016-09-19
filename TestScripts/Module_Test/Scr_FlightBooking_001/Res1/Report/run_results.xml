@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="User">
+<Data>
+    <Name>TestCase: Scr_FlightBooking_001</Name>
+    <Description>TestCase: Scr_FlightBooking_001</Description>
+    <StartTime>2016-09-02 16:32:26</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>f2144a9aef134cc0865dd4875c5ffce5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Login: Set User name</Name>
+    <Description>Successfully set the username to tutorial</Description>
+    <StartTime>2016-09-02 16:32:39</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>f2144a9aef134cc0865dd4875c5ffce5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Login: Set Password</Name>
+    <Description>Successfully set the password</Description>
+    <StartTime>2016-09-02 16:32:39</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>f2144a9aef134cc0865dd4875c5ffce5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Login: Click on Sign-IN</Name>
+    <Description>Successfully clicked on the image Sign-In</Description>
+    <StartTime>2016-09-02 16:32:40</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>f2144a9aef134cc0865dd4875c5ffce5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Scr_FlightBooking_001</Name>
+    <Description />
+    <StartTime>2016-09-02 16:32:26</StartTime>
+    <Duration>22</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>f27b593d07914af481e760212aaf83f5</IconKey>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2016-09-02 16:32:26</StartTime>
+    <Duration>22</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>936b7557e98f441eb87d024e36def282</IconKey>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Scr_FlightBooking_001</Name>
+    <ToolName>HP Unified Functional Testing</ToolName>
+    <ToolVersion>12.51</ToolVersion>
+    <Description />
+    <StartTime>2016-09-02 16:32:25</StartTime>
+    <Duration>23</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>369aeafa61c6492bb9d6da9250bd68a5</IconKey>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>ASIAPAC\rsaheb2</User>
+      <CpuInfo>Intel(R) Core(TM) i5-3550 CPU @ 3.30GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16180</TotalMemory>
+      <HostName>asiapac.globalcsc.net\CSCINDAE514364</HostName>
+      <OSInfo>Windows 7 Service Pack 1 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res1</ResultName>
+    <RunStartTime>2016-09-02 16:32:25</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>HP Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>12.51</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>

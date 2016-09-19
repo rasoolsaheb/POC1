@@ -1,0 +1,79 @@
+<Environment>
+	<Variable>
+		<Name>browserType</Name> <!-- Browser Type Can be 'IE/FF' -->
+		<Value>IE</Value>
+	</Variable>
+	<Variable>
+		<Name>htmlReportSuiteName</Name> <!-- HTML Results Report Name that should be displayed -->
+		<Value></Value>
+	</Variable>
+	<Variable>
+		<Name>AppURL</Name> <!-- HTML Results Report Name that should be displayed -->
+		<Value>http://newtours.demoaut.com</Value>
+	</Variable>
+		<Variable>
+		<Name>AppUserName</Name> <!-- HTML Results Report Name that should be displayed -->
+		<Value>tutorial</Value>
+	</Variable>
+		<Variable>
+		<Name>AppPassword</Name> <!-- HTML Results Report Name that should be displayed -->
+		<Value>tutorial</Value>
+	</Variable>
+	<Variable>
+		<Name>executionReportPath</Name> <!-- Path where HTML Results Report should be save in the path -->
+		<Value>C:\HybridAutomation\Reports\ScreenShots</Value>
+	</Variable>
+	<Variable>
+		<Name>reportTxtFileName</Name> <!-- Name of the text log file name for Results Report to be saved in -->
+		<Value>ResultsLog</Value>
+	</Variable>
+	<Variable>
+		<Name>reportHtmlFileName</Name> <!-- Name of the HTML Results Report file name -->
+		<Value>ExecutionReport</Value>
+	</Variable>
+	<Variable>
+		<Name>TestDataFileLocation</Name> <!-- Excel test data file path and name -->
+		<Value>..\..\..\TestData</Value>
+	</Variable>
+	<Variable>
+		<Name>VariablesDataFileLocation</Name> <!-- Excel test data file path and name -->
+		<Value>..\..\..\TestData\VariableData.xls</Value>
+	</Variable>
+	<Variable>
+		<Name>DB2ConString</Name> <!-- DB2 Connection String PWD= will be copied from the Encrypted string copied in clipboard after executing the function gfuncEncryptString() -->
+		<Value>Driver={IBM DB2 ODBC DRIVER};UID=devvxk5;PWD==9Exj|tq;AUTHENTICATION=SERVER;PORT=3910;HOSTNAME=DB2GWT;PROTOCOL=TCPIP;DATABASE=DB2DSNQ;</Value>
+	</Variable>
+	<Variable>
+		<Name>delayInterval</Name>  <!-- Delay Interval Time -->
+		<Value>1</Value>
+	</Variable>
+	<Variable>
+		<Name>syncWait</Name> <!-- Minimum sync Wait Time -->
+		<Value>2</Value>
+	</Variable>
+	<Variable>
+		<Name>shortWait</Name> <!-- Short Wait Time-->
+		<Value>5</Value>
+	</Variable>
+	<Variable>
+		<Name>mediumWait</Name> <!-- Medium Wait Time -->
+		<Value>20</Value>
+	</Variable>
+	<Variable>
+		<Name>longWait</Name> <!-- Long Wait Time -->
+		<Value>40</Value>
+	</Variable>
+	<Variable>
+		<Name>timeOut</Name>  <!-- TimeOut Time -->
+		<Value>60</Value>
+	</Variable>
+	<Variable>
+	        <Name>debugMode</Name>  <!-- Debug Mode Set To True/False -->
+        	<Value>False</Value>
+	</Variable>	
+	<Variable>
+		<Name>MaskValue</Name> <!-- Mask Value which will be used while using gfuncEncryptString() And gfuncDecryptString() -->
+		<Value>CSC</Value>
+	</Variable>
+	
+</Environment>

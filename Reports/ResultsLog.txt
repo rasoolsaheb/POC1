@@ -1,0 +1,112 @@
+
+	 Automation Test Suite Log
+Test Case Name: 	FlightBooking $Scr_FlightBooking_001$Scr_FlightBooking_001
+Environment Name: 	"CSCINDAF026980 Microsoft Windows 7 Workstation 6.1.7601"
+Start Time:	11/02/2015 12:13:10 PM
+
+S.No	Status	Step Name	Description	Date/Time
+1	Pass	"Login: Set User name"	"Successfully set the username to tutorial"	11/02/2015 12:13:10 PM
+2	Pass	"Login: Set Password"	"Successfully set the password"	11/02/2015 12:13:10 PM
+3	Pass	"Login: Click on Sign-IN"	"Successfully clicked on the image Sign-In"	11/02/2015 12:13:12 PM
+4	Pass	"Flight Finder: Select Trip Type"	"Successfully selected trip type as oneway"	11/02/2015 12:13:16 PM
+5	Pass	"Flight Finder: Select Passensgers"	"Successfully selected passengers as 1"	11/02/2015 12:13:16 PM
+6	Pass	"Flight Finder: Select Departing From"	"Successfully selected departing city as London"	11/02/2015 12:13:16 PM
+7	Pass	"Flight Finder: Select Departing Month"	"Successfully selected departing month as December"	11/02/2015 12:13:16 PM
+8	Pass	"Flight Finder: Select Departing Day"	"Successfully selected departing day as 1"	11/02/2015 12:13:17 PM
+9	Pass	"Flight Finder: Select Arriving at"	"Successfully selected arriving city as Paris"	11/02/2015 12:13:18 PM
+10	Pass	"Flight Finder: Select Arriving Month"	"Successfully selected arrival month as December"	11/02/2015 12:13:18 PM
+11	Pass	"Flight Finder: Select Arriving Day"	"Successfully selected arrival day as 9"	11/02/2015 12:13:18 PM
+12	Pass	"Flight Finder: Select Service Class"	"Successfully selected service class as Business"	11/02/2015 12:13:19 PM
+13	Pass	"Flight Finder: Select AirLines"	"Successfully selected AirLines as Blue Skies Airlines"	11/02/2015 12:13:19 PM
+14	Pass	"Flight Finder: Click on Continue image"	"clicked on Continue image"	11/02/2015 12:13:21 PM
+15	Pass	"Select Flight: Click on Continue image"	"Successfully clicked on Continue image"	11/02/2015 12:13:24 PM
+16	Pass	"Book a Flight: Enter First Name"	"Successfully entered the First Name as John"	11/02/2015 12:13:26 PM
+17	Pass	"Book a Flight: Enter Last Name"	"Successfully entered the  Last Name as Timmer"	11/02/2015 12:13:26 PM
+18	Pass	"Book a Flight: Select Meal"	"Successfully selected Meal as Bland"	11/02/2015 12:13:26 PM
+19	Pass	"Book a Flight: Select Credit Card Type"	"Successfully selected Credit Card Type as Visa"	11/02/2015 12:13:27 PM
+20	Pass	"Book a Flight: Enter Credit Card Number"	"Successfully entered the Credit Card Number as 1234567890123450"	11/02/2015 12:13:28 PM
+21	Pass	"Book a Flight: Select Expiration Month"	"Successfully selected the expiration Month as 01"	11/02/2015 12:13:29 PM
+22	Pass	"Book a Flight: Select Expiration Year"	"Successfully selected the expiration Years as 2010"	11/02/2015 12:13:29 PM
+23	Pass	"Book a Flight: Enter Credit Card First Name"	"Successfully entered the credit card First Name as John"	11/02/2015 12:13:30 PM
+24	Pass	"Book a Flight: Enter Credit Card Middle Name"	"Successfully entered the credit card Middle Name as C"	11/02/2015 12:13:30 PM
+25	Pass	"Book a Flight: Enter Credit Card Last Name"	"Successfully entered the credit card Last Name as Timmer"	11/02/2015 12:13:31 PM
+26	Pass	"Book a Flight: Enter Credit Card Billing Address1"	"Successfully entered the credit card Billing Address1 to 15th south street"	11/02/2015 12:13:32 PM
+27	Pass	"Book a Flight: Enter City"	"Successfully entered the City as Herndon"	11/02/2015 12:13:32 PM
+28	Pass	"Book a Flight: Enter State"	"Successfully entered the State as VA"	11/02/2015 12:13:32 PM
+29	Pass	"Book a Flight: Enter Postal Code"	"Successfully entered the Postal code as 20151"	11/02/2015 12:13:33 PM
+30	Pass	"Book a Flight: Select country"	"Successfully selected the Country as UNITED STATES"	11/02/2015 12:13:33 PM
+31	Pass	"Book a Flight: check Same As Billing Adress"	"Successfully checked the Same As Billing Adress checkbox to ON"	11/02/2015 12:13:34 PM
+32	Pass	"Book a Flight: click on Secure purchase image"	"Successfully clicked on Secure Purchase image"	11/02/2015 12:13:35 PM
+33	Pass	"Book a Flight: Click on Continue image"	"Successfully clicked on Back to Flights image"	11/02/2015 12:13:38 PM
+34	Pass	"Flight Finder: Select Trip Type"	"Successfully selected trip type as oneway"	11/02/2015 12:13:42 PM
+35	Pass	"Flight Finder: Select Passensgers"	"Successfully selected passengers as 1"	11/02/2015 12:13:43 PM
+36	Pass	"Flight Finder: Select Departing From"	"Successfully selected departing city as Frankfurt"	11/02/2015 12:13:43 PM
+37	Pass	"Flight Finder: Select Departing Month"	"Successfully selected departing month as December"	11/02/2015 12:13:43 PM
+38	Pass	"Flight Finder: Select Departing Day"	"Successfully selected departing day as 2"	11/02/2015 12:13:43 PM
+39	Pass	"Flight Finder: Select Arriving at"	"Successfully selected arriving city as Zurich"	11/02/2015 12:13:44 PM
+40	Pass	"Flight Finder: Select Arriving Month"	"Successfully selected arrival month as December"	11/02/2015 12:13:44 PM
+41	Pass	"Flight Finder: Select Arriving Day"	"Successfully selected arrival day as 10"	11/02/2015 12:13:44 PM
+42	Pass	"Flight Finder: Select Service Class"	"Successfully selected service class as Business"	11/02/2015 12:13:44 PM
+43	Pass	"Flight Finder: Select AirLines"	"Successfully selected AirLines as Unified Airlines"	11/02/2015 12:13:45 PM
+44	Pass	"Flight Finder: Click on Continue image"	"clicked on Continue image"	11/02/2015 12:13:46 PM
+45	Pass	"Select Flight: Click on Continue image"	"Successfully clicked on Continue image"	11/02/2015 12:13:49 PM
+46	Pass	"Book a Flight: Enter First Name"	"Successfully entered the First Name as Natalie"	11/02/2015 12:13:50 PM
+47	Pass	"Book a Flight: Enter Last Name"	"Successfully entered the  Last Name as Park"	11/02/2015 12:13:50 PM
+48	Pass	"Book a Flight: Select Meal"	"Successfully selected Meal as Vegetarian"	11/02/2015 12:13:51 PM
+49	Pass	"Book a Flight: Select Credit Card Type"	"Successfully selected Credit Card Type as MasterCard"	11/02/2015 12:13:51 PM
+50	Pass	"Book a Flight: Enter Credit Card Number"	"Successfully entered the Credit Card Number as 9876543210123450"	11/02/2015 12:13:52 PM
+51	Pass	"Book a Flight: Select Expiration Month"	"Successfully selected the expiration Month as 05"	11/02/2015 12:13:52 PM
+52	Pass	"Book a Flight: Select Expiration Year"	"Successfully selected the expiration Years as 2010"	11/02/2015 12:13:53 PM
+53	Pass	"Book a Flight: Enter Credit Card First Name"	"Successfully entered the credit card First Name as Natalie"	11/02/2015 12:13:53 PM
+54	Pass	"Book a Flight: Enter Credit Card Middle Name"	"Successfully entered the credit card Middle Name as M"	11/02/2015 12:13:54 PM
+55	Pass	"Book a Flight: Enter Credit Card Last Name"	"Successfully entered the credit card Last Name as Park"	11/02/2015 12:13:54 PM
+56	Pass	"Book a Flight: Enter Credit Card Billing Address1"	"Successfully entered the credit card Billing Address1 to 13th becon street"	11/02/2015 12:13:54 PM
+57	Pass	"Book a Flight: Enter City"	"Successfully entered the City as Reston"	11/02/2015 12:13:54 PM
+58	Pass	"Book a Flight: Enter State"	"Successfully entered the State as VA"	11/02/2015 12:13:55 PM
+59	Pass	"Book a Flight: Enter Postal Code"	"Successfully entered the Postal code as 20372"	11/02/2015 12:13:55 PM
+60	Pass	"Book a Flight: Select country"	"Successfully selected the Country as UNITED STATES"	11/02/2015 12:13:56 PM
+61	Pass	"Book a Flight: check Same As Billing Adress"	"Successfully checked the Same As Billing Adress checkbox to ON"	11/02/2015 12:13:56 PM
+62	Pass	"Book a Flight: click on Secure purchase image"	"Successfully clicked on Secure Purchase image"	11/02/2015 12:13:58 PM
+63	Pass	"Book a Flight: Click on Continue image"	"Successfully clicked on Back to Flights image"	11/02/2015 12:14:01 PM
+64	Pass	"Find a Flight: click on Sign-Off link"	"Successfully clicked on sign-off link"	11/02/2015 12:14:04 PM
+End Time:	11/03/2015 12:46:57 PM
+
+Test Case Name: 	TestOrder $Scr_TestOrder_004$Scr_TestOrder_004
+Environment Name: 	"CSCINDAF026980 Microsoft Windows 7 6.1.7601"
+Start Time:	11/03/2015 12:46:57 PM
+
+S.No	Status	Step Name	Description	Date/Time
+1	Pass	"Login: Set User name"	"Successfully set the username to tutorial"	11/03/2015 12:46:57 PM
+2	Pass	"Login: Set Password"	"Successfully set the password"	11/03/2015 12:46:57 PM
+3	Pass	"Login: Click on Sign-IN"	"Successfully clicked on the image Sign-In"	11/03/2015 12:46:59 PM
+4	Pass	"Flight Finder: Select Trip Type"	"Successfully selected trip type as oneway"	11/03/2015 12:47:01 PM
+5	Pass	"Flight Finder: Select Passensgers"	"Successfully selected passengers as 1"	11/03/2015 12:47:01 PM
+6	Pass	"Flight Finder: Select Departing From"	"Successfully selected departing city as London"	11/03/2015 12:47:01 PM
+7	Pass	"Flight Finder: Select Departing Month"	"Successfully selected departing month as December"	11/03/2015 12:47:01 PM
+8	Pass	"Flight Finder: Select Departing Day"	"Successfully selected departing day as 1"	11/03/2015 12:47:02 PM
+9	Pass	"Flight Finder: Select Arriving at"	"Successfully selected arriving city as Paris"	11/03/2015 12:47:02 PM
+10	Pass	"Flight Finder: Select Arriving Month"	"Successfully selected arrival month as December"	11/03/2015 12:47:02 PM
+11	Pass	"Flight Finder: Select Arriving Day"	"Successfully selected arrival day as 9"	11/03/2015 12:47:02 PM
+12	Pass	"Flight Finder: Select Service Class"	"Successfully selected service class as Business"	11/03/2015 12:47:03 PM
+13	Pass	"Flight Finder: Select AirLines"	"Successfully selected AirLines as Blue Skies Airlines"	11/03/2015 12:47:03 PM
+14	Pass	"Flight Finder: Click on Continue image"	"clicked on Continue image"	11/03/2015 12:47:05 PM
+15	Pass	"Select Flight: Click on Continue image"	"Successfully clicked on Continue image"	11/03/2015 12:47:08 PM
+16	Pass	"Book a Flight: Enter First Name"	"Successfully entered the First Name as John"	11/03/2015 12:47:09 PM
+17	Pass	"Book a Flight: Enter Last Name"	"Successfully entered the  Last Name as Timmer"	11/03/2015 12:47:10 PM
+18	Pass	"Book a Flight: Select Meal"	"Successfully selected Meal as Bland"	11/03/2015 12:47:10 PM
+19	Pass	"Book a Flight: Select Credit Card Type"	"Successfully selected Credit Card Type as Visa"	11/03/2015 12:47:10 PM
+20	Pass	"Book a Flight: Enter Credit Card Number"	"Successfully entered the Credit Card Number as 1234567890123450"	11/03/2015 12:47:11 PM
+21	Pass	"Book a Flight: Select Expiration Month"	"Successfully selected the expiration Month as 01"	11/03/2015 12:47:11 PM
+22	Pass	"Book a Flight: Select Expiration Year"	"Successfully selected the expiration Years as 2010"	11/03/2015 12:47:12 PM
+23	Pass	"Book a Flight: Enter Credit Card First Name"	"Successfully entered the credit card First Name as John"	11/03/2015 12:47:12 PM
+24	Pass	"Book a Flight: Enter Credit Card Middle Name"	"Successfully entered the credit card Middle Name as C"	11/03/2015 12:47:13 PM
+25	Pass	"Book a Flight: Enter Credit Card Last Name"	"Successfully entered the credit card Last Name as Timmer"	11/03/2015 12:47:13 PM
+26	Pass	"Book a Flight: Enter Credit Card Billing Address1"	"Successfully entered the credit card Billing Address1 to 15th south street"	11/03/2015 12:47:13 PM
+27	Pass	"Book a Flight: Enter City"	"Successfully entered the City as Herndon"	11/03/2015 12:47:13 PM
+28	Pass	"Book a Flight: Enter State"	"Successfully entered the State as VA"	11/03/2015 12:47:14 PM
+29	Pass	"Book a Flight: Enter Postal Code"	"Successfully entered the Postal code as 20151"	11/03/2015 12:47:14 PM
+30	Pass	"Book a Flight: Select country"	"Successfully selected the Country as UNITED STATES"	11/03/2015 12:47:15 PM
+31	Pass	"Book a Flight: check Same As Billing Adress"	"Successfully checked the Same As Billing Adress checkbox to ON"	11/03/2015 12:47:15 PM
+32	Pass	"Book a Flight: click on Secure purchase image"	"Successfully clicked on Secure Purchase image"	11/03/2015 12:47:17 PM
+33	Pass	"Book a Flight: Click on Continue image"	"Successfully clicked on Back to Flights image"	11/03/2015 12:47:20 PM
+34	Fail	"Flight Finder: Select Trip Type"	"Error in gfSetValue():Object [wrgTripType] is not Exists - - For More Details, Refer Screenshot at C:\HybridAutomation\Reports\ScreenShots\Scr_TestOrder_004_20151103_124826.png"	11/03/2015 12:48:26 PM
