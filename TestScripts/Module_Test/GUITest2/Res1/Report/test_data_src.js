@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'D:\\framework\\HybridAutomation\\HybridAutomation\\TestScripts\\Module_Test\\GUITest2\\Res1',namePairs:[]}]};
