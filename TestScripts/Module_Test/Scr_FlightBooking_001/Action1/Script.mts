@@ -5,7 +5,7 @@
 'Description			:	This Script is used to execute book a flight from the application
 'Pre-Conditions         :   None
 'History				:
-'#########################################################################################
+'########################################################################################
 Option Explicit
 
 Dim ObjRS 			'Stores RecordSet Object 
